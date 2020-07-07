@@ -1,0 +1,17 @@
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojResolveAssemblyReference.cache
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+D:\Tugas\Semester 2\Pemrograman\Responsi Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+C:\Users\Lenovo\Downloads\Responsi-UAS-master\Responsi-UAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
